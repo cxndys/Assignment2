@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "turtle_shell",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4666666666666667,
+  "sample": 15,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "354dee03-ddf6-42cb-a74a-3ecc917f026b"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "54ec422d-f423-475d-9e13-aabae8cd7ff3"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "16c23133-5afc-4073-b600-587f45444348"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "f04d5ce0-1a7c-482a-a3fc-78272d917a06"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
